@@ -1,4 +1,4 @@
-Bài tập tuần 2: Clone Báo mới
+# Bài tập tuần 2 SE310
 
 Review:
 
